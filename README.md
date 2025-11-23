@@ -17,3 +17,7 @@
 - Jupyter Notebook
 
 ---
+### 📊 My GitHub Stats
+
+![Didem's GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=radical)
+
