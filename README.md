@@ -2,7 +2,6 @@
 
 👩🏼‍💻 Business Analytics student sharing my journey in data, finance and technologyy  
 👩🏼‍🎓 Studied **Business Analytics** at the University of Macquarie,Sydney 
-
 🧭 Planning to transition into a **Master of Research (MRes)** in the near future
 
 
