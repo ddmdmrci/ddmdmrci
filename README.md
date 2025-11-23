@@ -6,7 +6,7 @@
 
 
 🔗Links
-### Linkedin :in/didemdemirci/
+• Linkedin : in/didemdemirci/
 
 
 ## 💻 Tech Stack
