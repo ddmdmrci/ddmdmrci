@@ -19,7 +19,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 📊 GitHub Stats (Dark Neon Style)
+## 📊 GitHub Stats 
 
 ![Didem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmdmrci&show_icons=true&theme=radical&hide_rank=false)
 
