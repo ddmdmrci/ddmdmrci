@@ -17,7 +17,8 @@
 - Jupyter Notebook
 
 ---
-### 📊 My GitHub Stats
+## 📊 GitHub Stats (Dark Neon Style)
 
-![Didem's GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=radical)
+![Didem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmdmrci&show_icons=true&theme=radical&hide_rank=false)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmdmrci&layout=compact&theme=radical)
