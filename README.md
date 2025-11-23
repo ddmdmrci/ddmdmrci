@@ -37,14 +37,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## Achievements
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="80"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2646/2646890.png" width="80"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" width="80"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828640.png" width="80"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="80"/>
-</p>
 
 
