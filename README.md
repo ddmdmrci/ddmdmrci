@@ -1,7 +1,7 @@
 ### Hi, I'm Didem!
 
-👩🏼‍💻 Business Analytics student sharing my journey in data, finance and technologyy  
-👩🏼‍🎓 Studied **Business Analytics** at the University of Macquarie , Sydney
+👩🏼‍💻Business Analytics student sharing my journey in data, finance, and technology  
+👩🏼‍🎓 Currently studying **Business Analytics** at **Macquarie University**, Sydney  
 🧭 Planning to transition into a **Master of Research (MRes)** in the near future
 
 
