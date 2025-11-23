@@ -24,3 +24,11 @@
 ## 📊 GitHub Stats 
 
 [![Didem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmdmrci&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ddmdmrci/github-readme-stats)
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
