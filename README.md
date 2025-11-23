@@ -1,9 +1,10 @@
 ### Hi, I'm Didem!
 
-👩🏼‍💻 Business Analytics student exploring data, finance and technology
-👩🏼‍🎓 Currently studying **Business Analytics
+👩🏼‍💻 Business Analytics student exploring data, finance, and technology  
+👩🏼‍🎓 Currently studying **Business Analytics**  
 📍 Based in Sydney, Australia  
 🧭 Planning to transition into a **Master of Research (MRes)** in the near future
+
 
 ## 💻 Tech Stack
 
