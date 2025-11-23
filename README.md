@@ -5,6 +5,10 @@
 🧭 Planning to transition into a **Master of Research (MRes)** in the near future
 
 
+🔗Links
+### Linkedin : https://www.linkedin.com/in/didemdemirci/
+
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
