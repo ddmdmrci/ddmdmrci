@@ -23,5 +23,5 @@
 
 ## 📊 GitHub Stats 
 
-![Didem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmdmrci&show_icons=true&theme=radical&hide_rank=false)
+![Didem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmdmrci&count_private=true&show_icons=true&theme=radical&hide_rank=false)(https://github.com/ddmdmrci/github-readme-stats)
 
