@@ -13,8 +13,8 @@
 - R (ggplot2, tidyverse)
 - SQL
 - Tableau
-- Excel & Xero
 - Jupyter Notebook
+- MYOB & XERO
 
 ---
 ## 📊 GitHub Stats (Dark Neon Style)
