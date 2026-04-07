@@ -1,9 +1,8 @@
 ### Hi, I'm Didem!
-
-👩🏼‍💻Business Analytics student sharing my journey in data, finance, and technology  
-👩🏼‍🎓 Currently studying **Business Analytics** at **Macquarie University**, Sydney  
-🧭 Planning to transition into a **Master of Research (MRes)** in the near future
-
+👩🏼‍💻 Exploring data, finance & technology
+👩🏼‍🎓 Master of Research (MRes) student at Western Sydney University
+🔬 Researching ethical financial planning
+📊 Background in Business Analytics
 
 🔗Links
 
