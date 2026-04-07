@@ -1,7 +1,11 @@
 ### Hi, I'm Didem!
+
 👩🏼‍💻 Exploring data, finance & technology
+
 👩🏼‍🎓 Master of Research (MRes) student at Western Sydney University
+
 🔬 Researching ethical financial planning
+
 📊 Background in Business Analytics
 
 🔗Links
