@@ -78,3 +78,6 @@ Email: demirci_didem@yahoo.com
 ---
 
 ✨ Turning data into insights and research into decisions.
+
+
+![snake gif](https://github.com/didemdemirci59/didemdemirci59/blob/output/github-contribution-grid-snake.svg)
