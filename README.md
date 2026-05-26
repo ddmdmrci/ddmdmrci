@@ -12,8 +12,8 @@ My background combines business analytics, accounting, and research with an inte
 
 - Master of Research — Western Sydney University (Current)
 - Master of Business Analytics — Macquarie University
-- MBA — Business Administration
-- Bachelor’s Degree — International Trade & Business
+- MBA — Business Administration — Yildiz Technical University
+- Bachelor’s Degree — International Trade & Business — Eastern Mediterrenean University
 
 ---
 
