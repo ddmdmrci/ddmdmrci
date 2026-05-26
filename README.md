@@ -81,6 +81,4 @@ Email: demirci_didem@yahoo.com
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/didemdemirci59/didemdemirci59/output/github-contribution-grid-snake.svg" />
-</p>
+![snake gif](https://github.com/didemdemirci59/didemdemirci59/blob/output/github-snake.svg)
