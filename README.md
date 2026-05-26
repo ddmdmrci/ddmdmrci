@@ -45,9 +45,9 @@ Applied research and statistical analysis
 
 ## 📫 Connect
 
-LinkedIn: [YOUR LINK]
+LinkedIn: https://www.linkedin.com/in/didemdemirci
 
-Email: your@email.com
+Email: demirci_didem@yahoo.com
 
 ---
 
