@@ -26,7 +26,7 @@ Python • SQL • Statistics • Machine Learning
 Power BI • Tableau • Excel
 
 ### Finance & Business
-Financial Analysis • Procurement • Odoo • Xero
+Financial Analysis • Procurement • Odoo • Xero •SAP
 
 ---
 
